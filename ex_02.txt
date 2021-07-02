@@ -1,0 +1,5 @@
+Syntax of loop like an iterator method as found in other object-orientated programming languages
+
+lst = ["a", "b", "c"]
+for x in lst:
+  print(x)
