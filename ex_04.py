@@ -1,4 +1,3 @@
 words = ['world of coding', 'pen', 'python', 'hello']
 
-for n in words:
-    print(n.upper())
+[print(word.upper()) for word in words]
